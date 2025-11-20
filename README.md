@@ -1,4 +1,4 @@
-# IRIS Payments (EveryPay) - PrestaShop Module
+# IRIS Payments (EveryPay) - PrestaShop 1.7.x+ Module
 
 Ένα module πληρωμών για το PrestaShop που ενσωματώνει το IRIS / EveryPay payment gateway.
 
