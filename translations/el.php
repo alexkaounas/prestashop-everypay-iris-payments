@@ -1,0 +1,30 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{irispayments}prestashop>irispayments_edd0248b434106fa1fa99c87b656eca8'] = 'Πληρωμές Iris (EveryPay)';
+$_MODULE['<{irispayments}prestashop>irispayments_4cf000de9cb3828bdd82d6586f03ac79'] = 'Αποδεχτείτε πληρωμές μέσω IRIS / EveryPay.';
+$_MODULE['<{irispayments}prestashop>irispayments_a23f8b7f0abc84c4474199646ece612c'] = 'Πληρωμή με IRIS';
+$_MODULE['<{irispayments}prestashop>irispayments_d5341bfd0a4a89a8e457cd9d61c1ece8'] = 'Η διαδικασία συναλλαγής απέτυχε. Προσπάθησε ξανά ή διάλεξε νέο τρόπο πληρωμής.';
+$_MODULE['<{irispayments}prestashop>irispayments_c888438d14855d7d96a2724ee9c306bd'] = 'Οι ρυθμίσεις ενημερώθηκαν';
+$_MODULE['<{irispayments}prestashop>irispayments_ddc8f584bfdd7e7bf9169304afa33c9e'] = 'Ρυθμίσεις IRIS / EveryPay';
+$_MODULE['<{irispayments}prestashop>irispayments_37c5b6e7c4291021b6100a6754ae7ffe'] = 'Δημόσιο Κλειδί';
+$_MODULE['<{irispayments}prestashop>irispayments_5eb6bb157528b365f84c27bb4784031b'] = 'Μυστικό Κλειδί';
+$_MODULE['<{irispayments}prestashop>irispayments_9f5d4a26a690325988786ced21199e95'] = 'Όνομα Εμπόρου';
+$_MODULE['<{irispayments}prestashop>irispayments_0010ee7e087d7adb096eebfd2b919ffa'] = 'Κατάσταση Παραγγελίας';
+$_MODULE['<{irispayments}prestashop>irispayments_7e4ed5efc0f056eb2b36609af35177d3'] = 'Λειτουργία Sandbox';
+$_MODULE['<{irispayments}prestashop>irispayments_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Ενεργό';
+$_MODULE['<{irispayments}prestashop>irispayments_b9f5c797ebbf55adccdd8539a65a0241'] = 'Ανενεργό';
+$_MODULE['<{irispayments}prestashop>irispayments_c9cc8cce247e49bae79f15173ce97354'] = 'Αποθήκευση';
+$_MODULE['<{irispayments}prestashop>callback_411eb9a0ed7e998481a5e84f422ec5f1'] = 'Το μυστικό κλειδί των IRIS Payments δεν έχει ρυθμιστεί.';
+$_MODULE['<{irispayments}prestashop>callback_cfd6a8d0ce4887ed50ad946d498869d6'] = 'Μη έγκυρο payload στο callback των IRIS Payments.';
+$_MODULE['<{irispayments}prestashop>callback_3ac2942ca06c86eb662dd75dcea1d192'] = 'Λείπουν απαραίτητα πεδία στο IRIS callback.';
+$_MODULE['<{irispayments}prestashop>callback_44356593b542cfc1e3682822fcc63c28'] = 'Μη έγκυρη υπογραφή στο IRIS callback.';
+$_MODULE['<{irispayments}prestashop>callback_294a1f9b808398fcd6dd9a18ad416aec'] = 'Μη έγκυρο αναγνωριστικό καλαθιού για IRIS Payments.';
+$_MODULE['<{irispayments}prestashop>callback_eae2d89c436f3b340b2a059d98dad268'] = 'Μη έγκυρο καλάθι στο response των IRIS Payments.';
+$_MODULE['<{irispayments}prestashop>callback_c008189c654b36405ad0124be2fd721a'] = 'Το καλάθι των IRIS Payments δεν βρέθηκε.';
+$_MODULE['<{irispayments}prestashop>callback_a14a12056c21c93429e30ea2af711967'] = 'Ο πελάτης των IRIS Payments δεν βρέθηκε.';
+$_MODULE['<{irispayments}prestashop>payment_info_d6a1d77abbe3579d500802f2f900baf7'] = 'Θα μεταφερθείς στο ασφαλές περιβάλλον της IRIS / EveryPay για να ολοκληρώσεις την πληρωμή σου.';
+$_MODULE['<{irispayments}prestashop>payment_success_992d3f834d2afc8eed5408297471d063'] = 'Η πληρωμή σου μέσω IRIS ολοκληρώθηκε με επιτυχία.';
+$_MODULE['<{irispayments}prestashop>payment_success_e214d5c96de3127750f67b94d007f3cf'] = 'Ο αριθμός παραγγελίας σου είναι:';
+$_MODULE['<{irispayments}prestashop>payment_success_6eabcefa8c520747ee841c779cb3cebc'] = 'Συνολικό ποσό πληρωμής:';
