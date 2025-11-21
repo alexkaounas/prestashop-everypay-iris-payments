@@ -108,6 +108,10 @@ class IrisPayments extends PaymentModule
             return;
         }
 
+        if ($params['order']->module != $this->name) {
+            return;
+        }
+
         /** @var Order $order */
         $order = $params['order'];
         $order_state = $order->getCurrentState();
